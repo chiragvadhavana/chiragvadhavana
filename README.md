@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend development with NodeJs.**
 
-- 📝 I regularly write articles on [chiragvadhavana.medium.com](chiragvadhavana.medium.com)
+- 📝 I regularly write articles on chiragvadhavana.medium.com
 
 - 💬 Ask me about **Web Development(Javascript, ReactJs, NodeJs, MongoDB), Flutter, Android.**
 
